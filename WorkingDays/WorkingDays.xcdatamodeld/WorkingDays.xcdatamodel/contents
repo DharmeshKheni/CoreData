@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="6751" systemVersion="14C1514" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Contract" representedClassName="WorkingDays.Contract" syncable="YES">
+        <attribute name="enddate" attributeType="String" syncable="YES"/>
+        <attribute name="position" attributeType="String" syncable="YES"/>
+        <attribute name="ship" attributeType="String" syncable="YES"/>
+        <attribute name="stratdate" attributeType="String" syncable="YES"/>
+        <attribute name="workingdays" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Contract" positionX="-63" positionY="-18" width="128" height="120"/>
+    </elements>
+</model>
